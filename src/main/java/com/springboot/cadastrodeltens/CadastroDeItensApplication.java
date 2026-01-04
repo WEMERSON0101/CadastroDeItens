@@ -1,4 +1,4 @@
-package com.springboot.CadastroDeItens.Model;
+package com.springboot.cadastrodeltens;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
